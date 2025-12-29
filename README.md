@@ -4,7 +4,7 @@ This document summarizes the performance of three substring search algorithms—
 
 ---
 
-## 1. Task03_Article01.txt
+## 1. task03_article01.txt
 
 | Algorithm        | Existing Substring (s) | Non-existing Substring (s) |
 |-----------------|-----------------------|----------------------------|
@@ -19,7 +19,7 @@ This document summarizes the performance of three substring search algorithms—
 
 ---
 
-## 2. Task03_Article02.txt
+## 2. task03_article02.txt
 
 | Algorithm        | Existing Substring (s) | Non-existing Substring (s) |
 |-----------------|-----------------------|----------------------------|
